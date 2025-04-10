@@ -1,6 +1,6 @@
 # Scaling-Hypernetworks
 This repository provides a sample design database that breaks down structures into base structural geometries. These simple meshes can be manipulated within the design space to create more complex structural systems using a series of translation vectors.
-As supplementary material for the paper "Transformer Hypernetworks for Complex Structural Representation", this documentation provides further insight into the  mesh geometries used to train the proposed hypernetworks and the vectors used to train encoder models. To see view the target output designs that are constructed from this ground-truth dataset, run visualise_database.py within the example folder.
+As supplementary material for the paper "Transformer Hypernetworks for Complex Structural Representation", this documentation provides further insight into the  mesh geometries used to train the proposed hypernetworks and the vectors used to train encoder models. To view the target output designs that are constructed from this ground-truth dataset, run visualise_database.py within the example folder.
 
 
 **Example Base Geometries**: The fundamental building block elements that structural designs can be broken down into.
